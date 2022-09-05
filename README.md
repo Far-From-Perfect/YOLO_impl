@@ -8,3 +8,5 @@ mAP was only able to reach 19,4% in about 70 epochs;
 Class accuracy is: 66.832916%;
 No obj accuracy is: 98.540459%;
 Obj accuracy is: 52.756996%;
+
+With pre-trained weights, mAP achieved 79% accuracy on the Pascal-VOC dataset
