@@ -13,6 +13,7 @@ With pre-trained weights, mAP achieved 79% accuracy on the Pascal-VOC dataset
 
 
 Model:
+```
 Sequential(                                                                               
   (CNNBlock_1): _CNNBlock(                                                                
     (conv1): Conv2d(3, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False) 
@@ -414,3 +415,5 @@ Sequential(
     )
   )
 )
+
+```
